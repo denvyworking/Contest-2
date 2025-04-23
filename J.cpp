@@ -115,9 +115,6 @@ struct SegmentTree {
 };
 
 int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
-
     int N;
     cin >> N;
     vector<int> arr(N);
